@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProductSearchApp</string>
+    <string name="product_name">product name</string>
+    <string name="price">Price</string>
+    <string name="please_enter_the_product_details">please enter the product details</string>
+    <string name="description">description</string>
+</resources>
